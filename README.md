@@ -1,1 +1,0 @@
-# davidroygsu.github.io
