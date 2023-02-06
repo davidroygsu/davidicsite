@@ -1,0 +1,54 @@
+.page-header {
+    font-family:'Times New Roman', Times, sans-serif;
+    color: palevioletred;
+}
+
+.name {
+    font-family:'Times New Roman', Times, sans-serif;
+    color: indianred;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+body {
+    background-image: url('sky.jpg');
+    font-family: sans-serif;
+}
+
+h1,h2,h3 {
+    text-align: center;
+    color: chocolate
+}
+
+table {
+    border: none;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+ul {
+    color: #6699cc;
+}
+
+div {
+    float: right;
+}
+
+span {
+    color: red;
+}
+
+pre {
+    color: ivory;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
